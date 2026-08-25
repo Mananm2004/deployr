@@ -246,7 +246,7 @@ func PrintSucesss(domain string) {
 │                                                          │
 │ If you do not see it deployed even after a few hours,   │
 │ please paste the logs you got above at:                 │
-│ https://github.com/adityacodes30/deployr/issues         │
+│ https://github.com/Mananm2004/deployr/issues         │
 ╰──────────────────────────────────────────────────────────╯
 `+"\033[0m", domain)
 

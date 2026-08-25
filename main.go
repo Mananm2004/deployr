@@ -17,7 +17,7 @@ import (
 	"github.com/aws/aws-sdk-go-v2/service/ec2instanceconnect"
 	"golang.org/x/crypto/ssh"
 
-	"github.com/adityacodes30/deployr/utils"
+	"github.com/Mananm2004/deployr/utils"
 )
 
 func main() {

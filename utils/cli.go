@@ -70,7 +70,7 @@ func Cli(osArgs []string) (bool, string) {
 
 func writeConfigFile() error {
 
-	url := "https://raw.githubusercontent.com/adityacodes30/deployr/refs/heads/main/config.example.yml"
+	url := "https://raw.githubusercontent.com/Mananm2004/deployr/refs/heads/main/config.example.yml"
 
 	resp, err := http.Get(url)
 	if err != nil {

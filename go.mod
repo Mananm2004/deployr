@@ -1,4 +1,4 @@
-module github.com/adityacodes30/deployr
+module github.com/Mananm2004/deployr
 
 go 1.22.0
 

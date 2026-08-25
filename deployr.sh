@@ -3,7 +3,7 @@
 # Variables
 NGINX_CONF_PATH="/etc/nginx/nginx.conf"
 DEPLOY_DIR="/.deployr"
-STATIC_REPO_URL="https://github.com/adityacodes30/deployr-daemon.git"
+STATIC_REPO_URL="https://github.com/Mananm2004/deployr-daemon.git"
 GO_EXECUTABLE="server"
 DEPLOY_SCRIPT="deployr-daemon.sh"
 
